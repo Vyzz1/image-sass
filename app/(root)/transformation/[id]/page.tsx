@@ -1,6 +1,6 @@
 import React from "react";
 
-const TransformationPage = ({ params }) => {
+const TransformationPage = ({ params }: any) => {
   return <div>TransformationPage</div>;
 };
 
